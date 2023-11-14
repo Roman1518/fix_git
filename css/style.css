@@ -8,6 +8,7 @@
 .ji{
     display: flex;
     align-items: center;
+    /* justify-content: space-between; */
 }
 .hi{
     border: 1px solid silver;
@@ -16,4 +17,7 @@
 .bi{
     border: 1px solid silver;
     padding: 5px; width: fit-content;
+}
+.aq{
+    width: 800px;
 }
