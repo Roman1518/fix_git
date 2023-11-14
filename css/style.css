@@ -1,0 +1,19 @@
+.fi{
+ 
+    font-weight: bold;
+}
+.gi{
+    color:blue;
+}
+.ji{
+    display: flex;
+    align-items: center;
+}
+.hi{
+    border: 1px solid silver;
+    width: 150px;
+}
+.bi{
+    border: 1px solid silver;
+    padding: 5px; width: fit-content;
+}
